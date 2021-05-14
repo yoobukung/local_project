@@ -25,11 +25,9 @@ Local Project เป็นโปรเจคที่ผมทำขึ้นแ
 
 ## Framework หลักๆ ที่ใช้
 - Jupyter-lab
-- Django
-- Express.js
 - React
 - Angular
-- Springboot
+- Express.js
 
 ## การดู source code
 - เลือก branch ที่ต้องการหรือ
