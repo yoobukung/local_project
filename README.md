@@ -23,14 +23,14 @@ Local Project เป็นโปรเจคที่ผมทำขึ้นแ
 - typescript
 - java
 
-## Framework หลักๆ ที่ใช้
+## Framework หลักที่ใช้
 - Jupyter-lab
 - React
 - Angular
 - Express.js
 
-## การดู source code
+## source code
 - เลือก branch ที่ต้องการหรือ
 - เข้าไปที่นี่ [Basic Project](https://github.com/yoobukung/local_project/tree/basic)   [Intermediate Project](https://github.com/yoobukung/local_project/tree/intermediate)
-- สามารถกดเข้าไปดูได้ในแต่ละ folder บนไฟล์ github ได้เลย
+- หลังจากนั้นสามารถกดเข้าไปดูได้ในแต่ละ folder บนไฟล์ github ได้เลย
 
